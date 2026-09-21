@@ -65,8 +65,7 @@ public class BugTracker {
 		bg.displayBugSummary();
 		bg.assignToDeveloper(200,"Dedeepya");
 		System.out.println("\n"+"After the Develper is assigned");
-		bg.displayBugSummary();
-		
+		bg.displayBugSummary();	
 	}
 
 }
